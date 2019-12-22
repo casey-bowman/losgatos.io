@@ -95,10 +95,10 @@ export default {
     }
   },
   computed: {
-      rust_msg: function() {
-        return add(3, 9)
-      }
+    rust_msg: function () {
+      return add(3, 9)
     }
+  }
 
 }
 </script>

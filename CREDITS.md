@@ -10,13 +10,15 @@ removed comments from beginning of ``src/main.js``
 
 `yarn build`
 
-`yarn test`
-
-`yarn unit`
-
 `yarn lint`
 
 `yarn dev`
+
+the following commands have not to be found to work yet with rust
+
+`yarn test`
+
+`yarn unit`
 
 ---
 
