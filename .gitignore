@@ -1,0 +1,14 @@
+.DS_Store
+
+/.idea
+*.iml
+
+node_modules
+dist
+
+.cache
+
+src/**/target
+**/*.lock
+
+test/unit/coverage
