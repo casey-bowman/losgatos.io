@@ -2,23 +2,13 @@
 
 - Template - Edd Yerburgh's [vue-parcel-boilerplate](https://github.com/eddyerburgh/parcel-vuejs-template)
 
-updated *jest* in ``package.json``
-
-added *babel-core* to ``package.json``
-
-removed comments from beginning of ``src/main.js``
+removed *jest*
 
 `yarn build`
 
 `yarn lint`
 
 `yarn dev`
-
-the following commands have not to be found to work yet with rust
-
-`yarn test`
-
-`yarn unit`
 
 ---
 
