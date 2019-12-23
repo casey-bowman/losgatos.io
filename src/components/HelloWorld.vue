@@ -18,7 +18,7 @@ export default {
     return {
       msg: 'Welcome to the Los Gatos Reading Group',
       a: 0,
-      b: 0,
+      b: 0
     }
   },
   computed: {
