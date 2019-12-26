@@ -1,12 +1,12 @@
 {
   "name": "losgatos",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Source code for losgatos.io",
   "author": "",
   "private": true,
   "scripts": {
     "dev": "parcel index.html",
-    "lint": "eslint --ext .js,.vue src test/unit",
+    "lint": "eslint --ext .js,.vue src",
     "build": "parcel build index.html"
   },
   "keywords": [],
