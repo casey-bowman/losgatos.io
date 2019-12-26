@@ -4,7 +4,6 @@
     <div><Welcome/></div>
     <br/>
 
-
     <h2>Books we plan to read</h2>
     <h3>Bitcoin</h3>
     <a href="https://github.com/lnbook/lnbook">Mastering the Lightning Network</a> by Andreas M. Antonopoulos, Olaoluwa Osuntokun, and René Pickhardt<br/>
